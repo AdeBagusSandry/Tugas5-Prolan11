@@ -1,7 +1,7 @@
 public class Minuman {
   protected String   namamin;
   protected Integer harga;
-  protected Float jenismin;
+  protected String jenismin;
   
   
 

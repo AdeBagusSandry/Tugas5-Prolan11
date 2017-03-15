@@ -1,7 +1,7 @@
 public class Makanan {
   protected String namamkn;
   protected Integer harga;
-  protected Float jenismkn;
+  protected String jenismkn;
   
 
   public void Informasimakanan() {
